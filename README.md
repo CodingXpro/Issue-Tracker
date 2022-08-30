@@ -10,7 +10,7 @@ Run this command in your GitHub CLI
 
 # or use the URL
 
-https://github.com/codingXpert/demo
+https://github.com/CodingXpro/Issue-Tracker
 
 # Features
 
