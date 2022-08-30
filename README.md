@@ -6,9 +6,7 @@ A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a projec
 
 Run this command in your GitHub CLI
 
-- gh repo clone codingXpert/demo
 
-# or use the URL
 
 https://github.com/CodingXpro/Issue-Tracker
 
